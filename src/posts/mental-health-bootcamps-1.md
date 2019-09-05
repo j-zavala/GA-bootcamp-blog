@@ -5,6 +5,7 @@ metaTitle: Mental Health & Bootcamps
 metaDesc: >-
   Keeping your mental health at a healthy level while going through a coding
   bootcamp.
+socialImage: ''
 date: 2019-09-04T23:25:33.566Z
 tags:
   - mental health
@@ -17,7 +18,7 @@ So I want to share a couple of things I learned from my first bootcamp that I wa
 
 CONTENT WARNING: Depression, also maybe TMI. I’m sharing this because I don’t give it a shit anymore about consequences of people knowing my mental health status and it’s cathartic for my ❤️.
 
-![Spending an hour debugging only to realize you spelled “const” wrong](/images/giphy.gif "Coding in a nutshell.")
+![When you spent an hour debugging, only to find it's a const spelled wrong.](/images/giphy.gif "Coding in a nutshell.")
 
 # The First
 
